@@ -1,0 +1,6 @@
+// just file with a comment
+
+void main(void)
+{
+  return;
+}
